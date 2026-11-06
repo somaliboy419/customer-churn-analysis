@@ -1,0 +1,16 @@
+Customer_ID,Age,Subscription_Months,Monthly_Charge,Support_Calls,Churn
+C001,22,3,25,4,Yes
+C002,35,18,45,1,No
+C003,28,6,30,5,Yes
+C004,46,36,65,0,No
+C005,31,9,40,3,Yes
+C006,52,48,75,1,No
+C007,24,4,28,6,Yes
+C008,39,24,55,2,No
+C009,44,12,60,3,No
+C010,29,5,35,5,Yes
+C011,57,60,80,0,No
+C012,33,15,42,2,No
+C013,26,7,32,4,Yes
+C014,48,30,70,1,No
+C015,37,10,50,4,Yes
